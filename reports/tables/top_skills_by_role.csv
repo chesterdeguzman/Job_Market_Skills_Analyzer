@@ -1,0 +1,41 @@
+role_category,skill,postings,rank
+BI Analyst,DAX,3379,6.0
+BI Analyst,Data Visualization,3401,3.0
+BI Analyst,ETL,3375,7.0
+BI Analyst,Excel,3429,2.0
+BI Analyst,Git,669,9.0
+BI Analyst,PostgreSQL,659,10.0
+BI Analyst,Power BI,3381,4.0
+BI Analyst,SQL,3381,5.0
+BI Analyst,Tableau,3434,1.0
+BI Analyst,dbt,674,8.0
+Data Analyst,Data Visualization,6765,4.0
+Data Analyst,Excel,6816,1.0
+Data Analyst,Pandas,6807,2.0
+Data Analyst,PostgreSQL,1390,9.0
+Data Analyst,Power BI,6689,7.0
+Data Analyst,Python,6788,3.0
+Data Analyst,SQL,6652,8.0
+Data Analyst,Statistics,6736,5.0
+Data Analyst,Tableau,6701,6.0
+Data Analyst,dbt,1386,10.0
+Data Engineer,AWS,3693,7.0
+Data Engineer,Airflow,3757,2.0
+Data Engineer,Azure,3721,4.0
+Data Engineer,BigQuery,867,10.0
+Data Engineer,Databricks,3727,3.0
+Data Engineer,Docker,3957,1.0
+Data Engineer,Python,3693,8.0
+Data Engineer,SQL,3713,5.0
+Data Engineer,Snowflake,3712,6.0
+Data Engineer,Spark,3686,9.0
+Data Scientist,Machine Learning,4089,6.0
+Data Scientist,NumPy,4148,2.0
+Data Scientist,Pandas,4127,4.0
+Data Scientist,PostgreSQL,972,10.0
+Data Scientist,PyTorch,4156,1.0
+Data Scientist,Python,4140,3.0
+Data Scientist,SQL,4078,8.0
+Data Scientist,Scikit-learn,4082,7.0
+Data Scientist,Statistics,4070,9.0
+Data Scientist,TensorFlow,4107,5.0
