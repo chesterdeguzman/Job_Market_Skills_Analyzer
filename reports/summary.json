@@ -1,0 +1,49 @@
+{
+  "rows": 25000,
+  "date_min": "2024-01-01",
+  "date_max": "2026-06-30",
+  "median_salary": 108300.0,
+  "remote_share": 0.26304,
+  "top_10_skills": [
+    {
+      "skill": "SQL",
+      "postings": 17824
+    },
+    {
+      "skill": "Python",
+      "postings": 14621
+    },
+    {
+      "skill": "Pandas",
+      "postings": 10934
+    },
+    {
+      "skill": "Statistics",
+      "postings": 10806
+    },
+    {
+      "skill": "Excel",
+      "postings": 10245
+    },
+    {
+      "skill": "Data Visualization",
+      "postings": 10166
+    },
+    {
+      "skill": "Tableau",
+      "postings": 10135
+    },
+    {
+      "skill": "Power BI",
+      "postings": 10070
+    },
+    {
+      "skill": "Docker",
+      "postings": 6910
+    },
+    {
+      "skill": "PyTorch",
+      "postings": 4156
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "role_classifier_accuracy": 1.0,
+  "role_classifier_macro_f1": 1.0,
+  "salary_mae_usd": 8514.251762166326,
+  "salary_r2": 0.9141972673660594
+}
